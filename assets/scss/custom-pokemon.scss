@@ -1,0 +1,22 @@
+.pokemon-card-image {
+  height: 290px;
+
+  img {
+    width: auto;
+    max-height: 100%;
+  }
+}
+
+.pokemon-card-content {
+  p {
+    font-size: 0.875rem;
+  }
+}
+
+.is-pokemon-font-size {
+  font-size: 0.875rem;
+}
+
+.pokemon-heading {
+  font-weight: 900;
+}
